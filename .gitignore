@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+bot_database.db
+
+# Environment
+.env
+
+# Logs
+*.log
